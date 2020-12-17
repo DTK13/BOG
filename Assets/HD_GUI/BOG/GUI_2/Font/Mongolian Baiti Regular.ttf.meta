@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: db2a0bfb2245c9b428e90bd1894b8fa4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mongolian Baiti
+  fontNames:
+  - Mongolian Baiti
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6a7f0ea63a772be4f88bd71ab329133c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
